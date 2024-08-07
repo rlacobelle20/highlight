@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Highlight",
+    "description": "Highlight words in a browser to translate them",
+    "version": "1.0",
+    "action": {
+        "default_popup": "popup/highlight.html",
+        "default_icon": "images/highlight.png"
+    }
+}
